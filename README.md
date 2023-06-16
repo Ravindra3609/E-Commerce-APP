@@ -31,6 +31,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
+Go to the vs code and open file reveal in that and select E-Commerce APP folder , and open cmd(command prompt) in that and run "npm run dev" , after thar app will be redirected to the localhost:3000  : )
+
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
