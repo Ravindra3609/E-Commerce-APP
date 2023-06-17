@@ -1,4 +1,4 @@
-## E-Commerce APP - FULL STACK PROJECT
+## E-Commerce APP - FULL STACK MERN PROJECT
 
 The MERN stack-powered eCommerce app I've developed offers a seamless and user-friendly online shopping experience. Combining the strengths of MongoDB, Express.js, React.js, and Node.js, this app provides a robust and scalable platform for both customers and sellers.
 
